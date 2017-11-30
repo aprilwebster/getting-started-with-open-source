@@ -27,6 +27,8 @@
   - C++, python, hadoop, hbase, spark
   - Git
   - Organizing diversity events
+- **My Story:**
+  I have been a software engineer for many years, but shied away from contributing to Open Source.  I didn't know where to start and was nervous about putting myself in a position where others would criticize my work. However, for a project at work, I needed to put in a patch to an Apache project.  I found the work interesting, learned a lot in terms of the documentation and testing requirements, and found the community supportive and nice to work with!  I have worked on some other small projects at Hackathons and look forward to working on more projects as part of Sprints and Hackathons.
 
 **James Horine**
 
@@ -48,11 +50,13 @@
   - Computational biologist, PhD candidate
   - Focused on quantitative approaches to understand the influence of the gut microbiome on drug metabolism
 - **Have I contributed to open source:**
-  - Yes, I have contributed to &lt; [https://github.com/nikitasingh981/smartcitieshack-d3](https://github.com/nikitasingh981/smartcitieshack-d3)&gt; and &lt; [https://github.com/scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)&gt;
+  - Yes, I have contributed to [https://github.com/nikitasingh981/smartcitieshack-d3](https://github.com/nikitasingh981/smartcitieshack-d3) and [https://github.com/scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - **My Skills to Share:**
   - I create tutorials on using python and R for data analysis and visualization
-  - I have a tutorial introducing network analysis &lt; [https://github.com/ltcguthrie/Pygotham\_2017](https://github.com/ltcguthrie/Pygotham_2017)&gt;
+  - I have a tutorial introducing network analysis [https://github.com/ltcguthrie/Pygotham\_2017](https://github.com/ltcguthrie/Pygotham_2017)
   - I develop STEM curriculum material geared towards high school students
+- **My Story:**
+I have been using open source (OS) tools for my thesis work for the past 4 years. Three years in, I made my first OS contribution. In the Spring of 2017, I participated in a Scikit-learn Sprint organized by the [NYC WiMLDS]( https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) meetup group. It was a friendly introduction to the process of choosing a project, identifying an issue and submitting a pull request. 
 
 **Mayur Gilani**
 
@@ -92,6 +96,8 @@
   - Yes. I&#39;m a maintainer of the [Tax-Calculator](https://github.com/open-source-economics/Tax-Calculator) and [TaxData](https://github.com/open-source-economics/taxdata) repos.
 - **My Skills to Share:**
   - Python, markdown
+- **My Story:**
+  After studying economics in undergrad, I began working at a think tank in Washington, DC on an open source tax model. This was my first step into both open source and software development/data science. I had no idea what I was doing initially (my first pull requests reflect this), but after some time I became more comfortable putting code out there for others to review and use. Since then I have been involved in Code for DC and gotten into the habit of posting most of the code I write on GitHUb. Getting involved in open source has improved my development skills dramtically as I have been able to see other's code and have my own reviewed and corrected.
 
 **Prince Wilson**
 
@@ -114,3 +120,17 @@
   - Yes! Most of the code generated for my thesis is open source.
 - **My Skills to Share:**
   - Python, markdown, Git
+
+**Tania Allard**
+- **About:**
+  - Research Software Engineering, PhD in Computational modelling, Open source, diversity, inclusion and data nerd  
+  - I am massively interested in promoting and facilitating reproducible and replicable science, analysis workflows, and helping to maximise the research impact by developing robust, sustainable, and open software.  I am also passionate about data readiness, accessibility, and curation.
+  - I love mentoring, teaching and build supportive and welcoming communities ✨
+- **Have I contributed to open source?**
+  - Yes! During my PhD I became massively aware of the importance of open source projects as well as the lack (at that time) of robust open software for the area I was working on.
+
+  The very vast majority of my work is completely open source these days (except for some sensitive research... you know how it works). I also am the founder/maintainer of [Coding Foundation](https://github.com/trallard/Coding-foundation) an open source project aimed to increase the representation of women and members of the LGBT community in Computer Science and tech related areas (data science included). Also, I actively contribute to a number of open source projects which are part of larger organizations and initiatives.
+
+- **My skills to share:**
+  - Python, R, MATLAB, Fortran, C/C++, data visualization, data analysis / science, version control, web development (full stack), API design, HPC, cloud computing
+  - Teaching, mentoring, public speaking, outreach and dissemination, community building
