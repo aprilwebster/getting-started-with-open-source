@@ -8,7 +8,7 @@ I work at Two Sigma as an open source coordinator, so part of my job is getting 
 # What is an Open Source Sprint?
 An Open Source Sprint is a short event, typically lasting 1-2 days, where groups of people get together to work on one open source project.  The people will generally use this time to add content and fix bugs for the project.  There will typically be TAs from the project community to help out, answer questions, and facilitate the acceptance of the contributions in a timely manner.
 
-Who can organize an Open Source Sprint?
+# Who can organize an Open Source Sprint?
 Anyone!  This is something that can be done within your own organization, at a Meetup group, at a Hackathon, or at a college computing club.  Anyone that has a group of technologists can organize an event of this type.  It will be a great resource to both the Open Source community as well as all of the participants.
 
 # Step 1: Select Your Topic/Project
